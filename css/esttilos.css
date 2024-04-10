@@ -3,3 +3,9 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
+#cabecera{
+    background-color: rgb(121, 121, 253);
+    border: 5px solid rgb(184, 143, 222);
+    
+    
+}
