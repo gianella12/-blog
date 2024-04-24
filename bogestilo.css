@@ -10,7 +10,12 @@ body{
     
 }
 p{
-    border: 2px solid rgb(21, 21, 63);
+    border: 1px solid rgb(79, 79, 159);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(21, 108, 42);
 }
