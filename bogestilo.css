@@ -1,13 +1,13 @@
 #cabecera{
-    font-family: cursive;
     font-weight: bold;
     color: rgb(9, 72, 24);
-    background:rgb(68, 176, 93); ;
+    background:rgb(68, 176, 93); 
     text-align: center;
     
     
 }
 body{
+    font-family:Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
     font-size:25px; 
     background-color: rgb(8, 148, 92);
     
@@ -15,10 +15,9 @@ body{
 }
 p{
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 h2{
-    font-family: cursive;
     text-align: center;
     color: rgb(9, 72, 24);
     background:rgb(68, 176, 93); 
