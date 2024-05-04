@@ -1,2 +1,2 @@
-# -blog
-El increíble blog de una principiante, para el curso de Git y GitHub
+# blog
+**Este es un blog hecho con el fin de practicar  el curso de **Git y GitHub** 😃.**
